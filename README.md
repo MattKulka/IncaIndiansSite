@@ -10,3 +10,4 @@ This Webpage includes:
 - An evaluation / quiz that can be taken
 - A descriptive process on how to take the quiz
   
+![inca1](https://github.com/MattKulka/IncaIndiansSite/assets/92747257/415bd334-7288-4d0e-89ae-a3b252ebaf36)
